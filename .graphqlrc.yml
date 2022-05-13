@@ -1,0 +1,3 @@
+projects:
+  codegen:
+    schema: https://graphql.anilist.co
